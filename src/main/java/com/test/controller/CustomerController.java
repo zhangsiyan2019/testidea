@@ -20,5 +20,6 @@ public class CustomerController {
   
   
   public String testname(){
+    return "index";
   }
 }
